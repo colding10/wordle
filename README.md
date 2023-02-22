@@ -1,2 +1,2 @@
 # wordle
-my wordle project
+my wordle project (first ever c++ project)
